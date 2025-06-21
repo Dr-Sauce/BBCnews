@@ -1,0 +1,2 @@
+# BBCnews
+Requires Scriptable
