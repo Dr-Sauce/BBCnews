@@ -1,6 +1,6 @@
 # BBC News
 
-Watch LIVE broadcast on iOS without iPlayer.
+Watch BBC News LIVE on iOS without iPlayer 
 
 Requires [Scriptable](https://apps.apple.com/app/id1405459188).
 
