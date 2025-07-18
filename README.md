@@ -8,6 +8,6 @@ Requires [Scriptable](https://apps.apple.com/app/id1405459188).
 
 # Credits
 
-**[Live HD TV](https://www.livehdtv.com/):** M3u8 streaming link
+**[Live HD TV](https://www.livehdtv.com/):** BBC News (North America) M3u8 
 
 **ChatGPT:** M3u8 parsing regex, Scriptable script
